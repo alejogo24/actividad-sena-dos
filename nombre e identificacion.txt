@@ -1,3 +1,3 @@
 nombre: alejandro cometa gomez
 identificacion: 1061699499
-n.ficha: 2875721
+numero de ficha: 2875721
